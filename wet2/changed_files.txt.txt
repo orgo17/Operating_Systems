@@ -1,0 +1,7 @@
+include/linux/sched.h
+include/linux/init_task.h
+include/linux/syscalls.h
+
+kernel/Makefile
+
+arch/x86/entry/syscalls/syscall_64.tbl
